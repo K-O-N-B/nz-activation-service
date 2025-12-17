@@ -9,6 +9,6 @@
     "expiresAfterDays": 7,
     "mustActivateOnValidDate": true
   },
-  "message": "如果无法连接，请检查网络或稍后再试。",
+  "message": "如果无法连接，请检查网络或稍后再试（v1）。",
   "signature": "在这里填入使用私钥生成的签名字符串"
 }
