@@ -2,8 +2,8 @@
     "version":  1,
     "updatedAt":  "2025-12-17T10:00:00Z",
     "endpoints":  {
-                      "primary":  "https://192.168.3.19",
-                      "backup1":  "https://192.168.3.19"
+                      "primary":  "http://192.168.3.19:9000",
+                      "backup1":  "http://192.168.3.19:9000"
                   },
     "rateLimit":  {
                       "client":  {
@@ -16,5 +16,5 @@
                         "mustActivateOnValidDate":  true
                     },
     "message":  "请输入激活码以解锁高级功能请输入激活码以解锁高级功能请输入激活码以解锁高级功能",
-    "signature":  "SwH7s8M1WfQYGDttTdS4soy7t9NV57qMwdsHlMezDrm5QHF1ob2Ph8AkKIwNypEw\nfek4ucJW/iWbnPMUKP2AudP2ulTRvxHvVFFQC8f+pWvf632gE1xZEZXuXV25Aepv\nwpoX1bkHaQ7rbPrVNYAP49/L0VQW1GZmXzx5aDBCCbrlUK7dxU18DCnesUqF/4u9\nbVGR5rHGNw/a5G1y8c5KQXmNSjtze2S+8Uz1KQ6g5/WVN/wGwVKWa5sd/PO4vSfi\njgGzdtR8IkYni/QzK8IdZ2Wcn1w4nB6Y3sD1hP7rFgSm+1V9oXAwdoKN5+uTK9CX\nCKt+AER4YOhftM/cCJR0zQ=="
+    "signature":  "ioA7P5dgRGwOogr6qiCR+sYuUOwz9DepvYM97gnKwz0RfccoJp7P0+KfDu7FdpwO\nUtbkITELkywDhlfFu5t30h40WMTEol7e+eb0v2688vjOnBzELIkHyIs672EDg3mT\ndzrGF+mVxWINFjYXyHDiwMnMJ3SuQkeCFFQ7ob/MOIIaVhDPYbJUTSMkfAi+Lf6H\nt32XAmNTShuGuS1JjJXOPMDe3/FIcb8kcOluQIAdOJ2UIvKI0dBeKE33j07FUJ6t\nCzbixAbU5zu9N5FaT1ZKB/Y4Wkjm4+aXYGVvYkSplq7DkBqfRmItFHnY9ugMRSWm\nzO1r/CkCXMa03UX4e1UtzA=="
 }
