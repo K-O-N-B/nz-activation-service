@@ -3,7 +3,7 @@
     "updatedAt":  "2025-12-17T10:00:00Z",
     "endpoints":  {
                       "primary":  "https://192.168.3.19:9000",
-                      "backup1":  "https://your-cloud-server.example.com/api"
+                      "backup1":  "https://192.168.3.19:9000"
                   },
     "rateLimit":  {
                       "client":  {
@@ -16,5 +16,5 @@
                         "mustActivateOnValidDate":  true
                     },
     "message":  "请输入激活码以解锁高级功能请输入激活码以解锁高级功能请输入激活码以解锁高级功能",
-    "signature":  "kXzIqsEDhClApwq1LKP6fsKW+xEhTLjDcTlBAFgS0A9yUsYConYutySgnH9meAOz\nkLDZMmXXDN/W5Rm4qsDYk5MdooS7bfw5/g4EQejIPCysfuwJOPCKvfA/2aW7oC6R\nsr65tCTMdo2hONUx+sv5HMES0nvxqcd6ZMkS8tkOUt4vdGvC++PvDCEHYvyvnRBw\n+W5nvuUAv97anHqo+ZIjnUYBlRV3XSYor3khN6sKkuwxf7zoG0CbULbTg9bKrlXE\npfl8upHVy1EUqH+ThyDqtsRsDvus0+3ZOmUP7BEEJfhq5MnGjC/DcdFIcqXZtYyX\nAhG3f1twzjQVFbzUJkjrkA=="
+    "signature":  "J4SeC7PnQYULx+vL+O9KUzRNB4WS9gm6oMvy03prynTIWxS0vXtYuo1nQgfNPNdT\nT6/7vPb2F7gV2xkDLPuMHO4yjik6rL6DTY/b160KSw8udoa8Ah8ldC9OqfV1HpTE\nJB1S9hq6Qha1b7AJaG49T0Z2yvrwSCS5eu2GFpRh6/NwNgGGEwuCnmDeCiRZ2vrN\nelgxA0ZPdMY8bE4s6iQrIcJhthaQN+b9IXxYW+4FD2JBzhu1+W+Ewtu6gznTrojz\nXxG4Q63HNpt8vPsY5GLX8TrBUgKVRAuLGRDQe7t7fh2S1Qf7s5ax08sNmbVVgKHl\nMGSVrXwNq1s/nDh8ODoMRg=="
 }
