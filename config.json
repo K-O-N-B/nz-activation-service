@@ -1,14 +1,20 @@
-{
-  "version": 1,
-  "updatedAt": "2025-12-17T10:00:00Z",
-  "endpoints": {
-    "primary": "https://192.168.3.19:9000",
-    "backup1": "https://your-cloud-server.example.com/api"
-  },
-  "trialPolicy": {
-    "expiresAfterDays": 7,
-    "mustActivateOnValidDate": true
-  },
-  "message": "请输入激活码以解锁高级功能请输入激活码以解锁高级功能请输入激活码以解锁高级功能",
-  "signature": "J3PYkdATjNLqAkyyraMaqED2toZk2tZV/lIHTf58WDu+wZAYGSNAy+Kfmq/TS8jUQ7CZAPu33YwHCscfT2/u8+pRg6Q8w13NvfMa6HFTvG7d0Ax3J4HwLwdnBh4p76trW4rV40H4KZnhACR0UmFTEv9bW4qQh47Snl994SLN8RMForlL+RX4NLloHyuyT1Q+F/2s0ONPI92/pJdm2u/NOGb/osYVTdBOA1EF1gWSUp5CtYFW10+2vZhH0McSOqmqtMrJVBT2CLlTDB1UrjpsoKD4p7xXQ4C3CSSpsF2CMMUQqzU/3P89fuup+Yuwjs5YYcvE5UZBkhfQG0e5OeI4OA=="
+﻿{
+    "version":  1,
+    "updatedAt":  "2025-12-17T10:00:00Z",
+    "endpoints":  {
+                      "primary":  "https://192.168.3.19:9000",
+                      "backup1":  "https://your-cloud-server.example.com/api"
+                  },
+    "rateLimit":  {
+                      "client":  {
+                                     "maxAttemptsPerDayPerMachine":  5,
+                                     "sameCodeCooldownSeconds":  30
+                                 }
+                  },
+    "trialPolicy":  {
+                        "expiresAfterDays":  7,
+                        "mustActivateOnValidDate":  true
+                    },
+    "message":  "请输入激活码以解锁高级功能请输入激活码以解锁高级功能请输入激活码以解锁高级功能",
+    "signature":  "kXzIqsEDhClApwq1LKP6fsKW+xEhTLjDcTlBAFgS0A9yUsYConYutySgnH9meAOz\nkLDZMmXXDN/W5Rm4qsDYk5MdooS7bfw5/g4EQejIPCysfuwJOPCKvfA/2aW7oC6R\nsr65tCTMdo2hONUx+sv5HMES0nvxqcd6ZMkS8tkOUt4vdGvC++PvDCEHYvyvnRBw\n+W5nvuUAv97anHqo+ZIjnUYBlRV3XSYor3khN6sKkuwxf7zoG0CbULbTg9bKrlXE\npfl8upHVy1EUqH+ThyDqtsRsDvus0+3ZOmUP7BEEJfhq5MnGjC/DcdFIcqXZtYyX\nAhG3f1twzjQVFbzUJkjrkA=="
 }
