@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  1,
     "updatedAt":  "2025-12-17T10:00:00Z",
     "endpoints":  {
@@ -16,5 +16,5 @@
                         "mustActivateOnValidDate":  true
                     },
     "message":  "请输入激活码以解锁高级功能请输入激活码以解锁高级功能请输入激活码以解锁高级功能",
-    "signature":  "A5OqAGNUgXt0EAuDiVbaN05V9Oyc7F1zPH0u0RkYF4mZ7gBE/f5yxxBmUHNYmk2h\nXNe2bBY9JqxuGXBBRq1HuU5yrm5HjFMMzaARrfkYlDEX+z+F5jZj79MgABij5L8b\naAgpdW8B6dRfRWSpDbJnX4lOQUIT7EfXgEGlqCDPXTnUcGy9LU09pBsACOjbYuV6\nZDtn2dE0zpZ9yoNIXTqY9MeAtKvitGmTJ/QhoLWnxfnN/NE7WmGbeBN/KRN0jrop\nfTahqABC1QCX6kQQko9TbJT89L23y/UGeIKwWIhzAg6rDGUaiG9fQYz+OqqRBSF1\nFSa1Apv100eBVWdHfDRlWg=="
+    "signature":  "Y25LfhxC0niutZly5kNHJ1EQSLR11/bYYJUsRuqefh9Km330yXL+aGYv2ToWJgCk\nXPWbVjBWd5AzcFi6gQ5qRXhnIN4TLtLNSTXKyXjiosW3EoYLcR+MHmPilyd++2sL\n+GuBFGga4vsfi6G6M/RgiqcR2lIhHRtIMf3TkRot90kNVTaBpg0+fzyX1jsHIAIO\nZt2QZnHt9eDAah+k7W32J/jV9A8ui5+fLyOjSVNzqTOpYpiv43yID5HaYWMzFb7M\njGu1QotzbF2uu7rxozQDLBXG+420nt5NASCK/jlcgHhw79mWWMmsA49a9Cv7EUmO\nzv7iwR4t/tT55y3BruLybg=="
 }
