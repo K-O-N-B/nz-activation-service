@@ -2,8 +2,8 @@
     "version":  1,
     "updatedAt":  "2025-12-17T10:00:00Z",
     "endpoints":  {
-                      "primary":  "http://192.168.3.19:9000",
-                      "backup1":  "http://192.168.3.19:9000"
+                      "primary":  "http://zhh.duckdns.org:9000",
+                      "backup1":  "http://zhh.ddns.net:9000"
                   },
     "rateLimit":  {
                       "client":  {
@@ -16,5 +16,5 @@
                         "mustActivateOnValidDate":  true
                     },
     "message":  "请输入激活码以解锁高级功能请输入激活码以解锁高级功能请输入激活码以解锁高级功能",
-    "signature":  "ioA7P5dgRGwOogr6qiCR+sYuUOwz9DepvYM97gnKwz0RfccoJp7P0+KfDu7FdpwO\nUtbkITELkywDhlfFu5t30h40WMTEol7e+eb0v2688vjOnBzELIkHyIs672EDg3mT\ndzrGF+mVxWINFjYXyHDiwMnMJ3SuQkeCFFQ7ob/MOIIaVhDPYbJUTSMkfAi+Lf6H\nt32XAmNTShuGuS1JjJXOPMDe3/FIcb8kcOluQIAdOJ2UIvKI0dBeKE33j07FUJ6t\nCzbixAbU5zu9N5FaT1ZKB/Y4Wkjm4+aXYGVvYkSplq7DkBqfRmItFHnY9ugMRSWm\nzO1r/CkCXMa03UX4e1UtzA=="
+    "signature":  "JMyBs93bfzSHTJ+MEee7LDevjK8hQ7yTIoMTkZbvr9aJrg/GkxilWUjhceogqLJY\nKEz7W/pqy5gfDupSG+GpeFtnxvGWOW2wPUxjKClzSjUusa/Ba/eVMn7MWJE+qIhF\n6Kg9qvsJbhzC52qiguroCSuY9DWA03htZChdtdQ3WBkylFNX7m8zz7PxUCcDwbKx\ndxS7fk2pXBhUZJA8cKbbj+7kfxJ/HQjVBDno2sQph1A6Q8ZK8BPRZeE2uMADJP8U\nZLkEw4/MON05J4+uItkMchC3ILv0F02+HDTX3bt+ww0TUQRnomS6yTKek5DzcwGI\neetOPOn5hrL4Eqc9ASm5Lw=="
 }
