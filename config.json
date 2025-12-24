@@ -1,9 +1,9 @@
 {
     "version":  1,
-    "updatedAt":  "2025-12-17T10:00:00Z",
+    "updatedAt":  "2025-12-24T02:00:00Z",
     "endpoints":  {
-                      "primary":  "https://192.168.3.19",
-                      "backup1":  "https://192.168.3.19"
+                      "primary":  "https://api.neozheg.top",
+                      "backup1":  "http://zhh.duckdns.org:9000"
                   },
     "rateLimit":  {
                       "client":  {
@@ -16,5 +16,5 @@
                         "mustActivateOnValidDate":  true
                     },
     "message":  "请输入激活码以解锁高级功能请输入激活码以解锁高级功能请输入激活码以解锁高级功能",
-    "signature":  "SwH7s8M1WfQYGDttTdS4soy7t9NV57qMwdsHlMezDrm5QHF1ob2Ph8AkKIwNypEw\nfek4ucJW/iWbnPMUKP2AudP2ulTRvxHvVFFQC8f+pWvf632gE1xZEZXuXV25Aepv\nwpoX1bkHaQ7rbPrVNYAP49/L0VQW1GZmXzx5aDBCCbrlUK7dxU18DCnesUqF/4u9\nbVGR5rHGNw/a5G1y8c5KQXmNSjtze2S+8Uz1KQ6g5/WVN/wGwVKWa5sd/PO4vSfi\njgGzdtR8IkYni/QzK8IdZ2Wcn1w4nB6Y3sD1hP7rFgSm+1V9oXAwdoKN5+uTK9CX\nCKt+AER4YOhftM/cCJR0zQ=="
+    "signature":  "hqhJ8E58OGij2F97fdbLYrPvTd6ulN5KljKlG6s+kdmXnPWTOsIk5Vm4u/VTNkkx\nhBMr0nM5ftvnxGSB380o0yqSu4bgZNzA41FMLnzzitRvA/7ERxDRlnUy9Q1tMniJ\nvYP63GUq8Bam7S5DjpHmHSW4ycKmrnw3r09DtGOyqbdXLg46Y1pAIBevquFxVt0S\n5/ULDcs2aA3+h17NVwqn3I/GNjfYunWHhertOw92iXVMhwATId29Hp5gf0QEJMeA\ntoXCVN6eB0RokOHVIDiq4EpLWLy2uMtIM5W38LsRc/JUIVIlX12JZGLl1Vh4NaDW\nwjKYs0/sfGGLjKLfmmAW1w=="
 }
